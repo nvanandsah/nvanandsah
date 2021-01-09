@@ -1,8 +1,6 @@
 ---
 title: Navneet Anand Sah
-date: '2020-14-08'
-spoiler: Dynamic Realtime Readme Template
-categories: ["dynamic-realtime", "all-profile"]
+
 githubUsername: 'nvanandsah'
 ---
 
